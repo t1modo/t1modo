@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Timothy Do</h1>
 <h3 align="center">A college student passionate about frontend development.</h3>
 
-- 🔭 I’m currently working on **Quizzical**
+- 🔭 I’m currently working on **RemindMe** & **Quizzical**
 
 - 🌱 I’m currently learning **React & React Native**
 
