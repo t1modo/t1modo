@@ -9,7 +9,7 @@
 
 - 📫 How to reach me: **tim.do.info@gmail.com**
 
-- 📄 Know about my experiences [My Resume](https://timodo-portfolio.cdn.prismic.io/timodo-portfolio/Z3yNfpbqstJ99GUw_TimothyDo%27sResume2025.pdf)
+- 📄 Know about my experiences [My Resume](https://timodo-portfolio.cdn.prismic.io/timodo-portfolio/Z3ySkpbqstJ99GVh_TimothyDo%27sResume2025.pdf)
 
 - ⚡ Fun fact **I was born on Saint Patrick's Day.**
 
