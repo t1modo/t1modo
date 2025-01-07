@@ -1,9 +1,9 @@
 <h1 align="center">Hello, I'm Timothy Do</h1>
 <h3 align="center">An aspiring Software Engineer!</h3>
 
-- 🔭 I’m currently working on [My Portfolio](https://timothy-do-portfolio.vercel.app/)
+- 🔭 I’m currently working on [NotiTron](https://github.com/t1modo/NotiTron)
 
-- 🌱 I’m currently learning **Svelte, Three.js, and Tailwind CSS**
+- 🌱 I’m currently learning **Python**
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://timothy-do-portfolio.vercel.app/)
 
