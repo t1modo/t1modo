@@ -5,7 +5,7 @@
 #### 🌱 I’m currently reviewing Java 
 #### 👨‍💻 All of my projects are available at [My Portfolio](https://timothy-do-portfolio.vercel.app/)
 #### 📫 How to reach me: tim.do.info@gmail.com
-#### 📄 Know about my experiences: [My Resume](https://timodo-portfolio.cdn.prismic.io/timodo-portfolio/Z3yWRZbqstJ99GV8_TimothyDo%27sResume2025.pdf)
+#### 📄 Know about my experiences: [My Resume](https://timodo-portfolio.cdn.prismic.io/timodo-portfolio/Z4im4JbqstJ99g95_TimothyDo%27sResume2025.pdf)
 #### ⚡ Fun fact: I was born on Saint Patrick's Day.
 
 # 🌐 Socials
