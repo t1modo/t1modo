@@ -1,12 +1,11 @@
 <h1 align="center">Hello, I'm Timothy Do</h1>
 
-# 💫 About Me
-#### 🔭 I’m currently grinding [LeetCode](https://github.com/t1modo/LeetCode)
-#### 🌱 I’m currently reviewing Java 
-#### 👨‍💻 All of my projects are available at [My Portfolio](https://timothy-do-portfolio.vercel.app/)
-#### 📫 How to reach me: tim.do.info@gmail.com
-#### 📄 Know about my experiences: [My Resume](https://timodo-portfolio.cdn.prismic.io/timodo-portfolio/Z4im4JbqstJ99g95_TimothyDo%27sResume2025.pdf)
-#### ⚡ Fun fact: I was born on Saint Patrick's Day.
+<h3 align="center">🔭 I’m currently grinding <a href="https://github.com/t1modo/LeetCode">LeetCode</a></h3>
+<h3 align="center">🌱 I’m currently reviewing Java</h3>
+<h3 align="center">👨‍💻 All of my projects are available at <a href="https://timothy-do-portfolio.vercel.app/">My Portfolio</a></h3>
+<h3 align="center">📫 How to reach me: tim.do.info@gmail.com</h3>
+<h3 align="center">📄 Know about my experiences: <a href="https://timodo-portfolio.cdn.prismic.io/timodo-portfolio/Z4im4JbqstJ99g95_TimothyDo%27sResume2025.pdf">My Resume</a></h3>
+<h3 align="center">⚡ Fun fact: I was born on Saint Patrick's Day.</h3>
 
 # 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/timothykhangdo)
