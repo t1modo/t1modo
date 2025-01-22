@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm Timothy Do</h1>
 
-<h3 align="center">🔭 I’m currently grinding <a href="https://github.com/t1modo/LeetCode">LeetCode</a></h3>
-<h3 align="center">🌱 I’m currently reviewing Java</h3>
+<h3 align="center">🔭 I’m currently interning @ <a href="https://algoverseairesearch.org/">Algoverse</a></h3>
+<h3 align="center">🌱 I’m conducting research on Large Language Models (LLMs)</h3>
 <h3 align="center">👨‍💻 All of my projects are available at <a href="https://timothy-do-portfolio.vercel.app/">My Portfolio</a></h3>
 <h3 align="center">📫 How to reach me: tim.do.info@gmail.com</h3>
 <h3 align="center">📄 Know about my experiences: <a href="https://timodo-portfolio.cdn.prismic.io/timodo-portfolio/Z4im4JbqstJ99g95_TimothyDo%27sResume2025.pdf">My Resume</a></h3>
