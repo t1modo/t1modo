@@ -1,7 +1,5 @@
 <h1 align="center">Hello, I'm Timothy Do</h1>
 
-<h3 align="center">🔭 I’m currently working on NeXus</a></h3>
-<h3 align="center">👨‍💻 View all of my projects: <a href="https://timothy-do-portfolio.vercel.app/">My Portfolio</a></h3>
 <h3 align="center">📫 How to reach me: tim.do.info@gmail.com</h3>
 <h3 align="center">⚡ Fun fact: I was born on Saint Patrick's Day.</h3>
 
