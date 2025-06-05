@@ -15,7 +15,7 @@
   *<ins>Timothy Do</ins>, Pranav Saran, Harshita Poojary, Pranav Prabhu, Sean O'Brien, Vasu Sharma, Kevin Zhu*  
   [arXiv:2506.02005](https://arxiv.org/abs/2506.02005)  
   <sub>
-   Presented a hybrid model integrating pre-trained Multilingual BERT (mBERT) with a bidirectional LSTM and linear classifier, fine-tuned for idiom and metaphor classification in Konkani, a low-resource language. Achieved 78% accuracy for metaphor classification and 83% for idiom classification.
+   Utilized a hybrid mBERT+BiLSTM model for figurative language detection, trained on low-resource Konkani. Achieved an accuracy of 83% for idiom classification and 78% for metaphor classification. Preserved 100% of original accuracy on idiom classification and 88% of original accuracy on metaphor classification while pruning attention heads.
   </sub>
 
 # 💻 Tech Stack
