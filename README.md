@@ -8,6 +8,8 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=white)](https://leetcode.com/Timodo/)
 [![HackerRank](https://img.shields.io/badge/HackerRank-%2341B7F2.svg?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/tim_do_info)
 [![Kaggle](https://img.shields.io/badge/Kaggle-%23004B37.svg?logo=kaggle&logoColor=white)](https://www.kaggle.com/timothykhangdo)
+[![arXiv](https://img.shields.io/badge/arXiv-profile-b31b1b.svg)](https://arxiv.org/a/do_t_3.html)
+[![ORCID](https://img.shields.io/badge/ORCID-iD-A6CE39.svg?logo=orcid&logoColor=white)](https://orcid.org/0009-0005-0710-7200)
 
 # 📄 Publications
 
