@@ -12,10 +12,10 @@
 # 📄 Publications
 
 - **Pruning for Performance: Efficient Idiom and Metaphor Classification in Low-Resource Konkani Using mBERT**  
-  *Timothy Do, Pranav Saran, Harshita Poojary, Pranav Prabhu, Sean O'Brien, Vasu Sharma, Kevin Zhu*  
+  *<ins>Timothy Do</ins>, Pranav Saran, Harshita Poojary, Pranav Prabhu, Sean O'Brien, Vasu Sharma, Kevin Zhu*  
   [arXiv:2506.02005](https://arxiv.org/abs/2506.02005)  
   <sub>
-  Presented a hybrid model integrating pre-trained Multilingual BERT (mBERT) with a bidirectional LSTM and linear classifier, fine-tuned for idiom and metaphor classification in Konkani, a low-resource language. Achieved 78% accuracy for metaphor classification and 83% for idiom classification.
+   Presented a hybrid model integrating pre-trained Multilingual BERT (mBERT) with a bidirectional LSTM and linear classifier, fine-tuned for idiom and metaphor classification in Konkani, a low-resource language. Achieved 78% accuracy for metaphor classification and 83% for idiom classification.
   </sub>
 
 # 💻 Tech Stack
