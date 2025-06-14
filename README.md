@@ -6,6 +6,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/timothykhangdo)
 [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=white)](https://leetcode.com/Timodo/)
 [![HackerRank](https://img.shields.io/badge/HackerRank-%2341B7F2.svg?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/tim_do_info)
+[![HuggingFace](https://img.shields.io/badge/🤗%20Hugging%20Face-FFD21E.svg?logo=huggingface&logoColor=black)](https://huggingface.co/Timodo)
 [![Kaggle](https://img.shields.io/badge/Kaggle-%23004B37.svg?logo=kaggle&logoColor=white)](https://www.kaggle.com/timothykhangdo)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4.svg?logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=ESAD2bsAAAAJ&hl=en)
 [![Semantic Scholar](https://img.shields.io/badge/Semantic%20Scholar-4F4F4F.svg?logo=semanticscholar&logoColor=white)](https://www.semanticscholar.org/author/Timothy-Do/2364998624)
