@@ -15,9 +15,16 @@
 
 # 📄 Publications
 
-- **Pruning for Performance: Efficient Idiom and Metaphor Classification in Low-Resource Konkani Using mBERT**  
-  *<ins>Timothy Do</ins>, Pranav Saran, Harshita Poojary, Pranav Prabhu, Sean O'Brien, Vasu Sharma, Kevin Zhu*  
-  [arXiv:2506.02005](https://arxiv.org/abs/2506.02005)  
+- Title: **ERGO: Entropy-guided Resetting for Generation Optimization in Multi-turn Language Models** <br/>
+  Authors: *Haziq Mohammad Khalid, Athikash Jeyaganthan, <ins>Timothy Do</ins>, Yicheng Fu, Sean O'Brien, Vasu Sharma, Kevin Zhu* <br/>
+  Publication: [arXiv number pending] <br/>
+  <sub>
+  Developed ERGO, achieving 56.6% average performance improvement and recovering a 15% accuracy drop in multi-turn conversations via entropy-guided prompt restructuring. Outperformed single-turn baselines by 9.6% and reduced response variability by 35.3%, addressing up to 112% increases in conversational inconsistency.
+  </sub>
+
+- Title: **Pruning for Performance: Efficient Idiom and Metaphor Classification in Low-Resource Konkani Using mBERT** <br/>
+  Authors: *<ins>Timothy Do</ins>, Pranav Saran, Harshita Poojary, Pranav Prabhu, Sean O'Brien, Vasu Sharma, Kevin Zhu* <br/>
+  Publication: [arXiv:2506.02005](https://arxiv.org/abs/2506.02005) <br/>
   <sub>
    Utilized a hybrid mBERT+BiLSTM model for figurative language detection, trained on low-resource Konkani. Achieved an accuracy of 83% for idiom classification and 78% for metaphor classification. Preserved 100% of original accuracy on idiom classification and 88% of original accuracy on metaphor classification while pruning attention heads.
   </sub>
