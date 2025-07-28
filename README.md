@@ -25,6 +25,7 @@
 - Title: **Pruning for Performance: Efficient Idiom and Metaphor Classification in Low-Resource Konkani Using mBERT** <br/>
   Authors: *<ins>Timothy Do</ins>, Pranav Saran, Harshita Poojary, Pranav Prabhu, Sean O'Brien, Vasu Sharma, Kevin Zhu* <br/>
   Publication: [arXiv:2506.02005](https://arxiv.org/abs/2506.02005) <br/>
+  🎉 Accepted to First Workshop on Multilingual Data Quality Signals (COLM 2025 WMDQS) <br/>
   <sub>
    Utilized a hybrid mBERT+BiLSTM model for figurative language detection, trained on low-resource Konkani. Achieved an accuracy of 83% for idiom classification and 78% for metaphor classification. Preserved 100% of original accuracy on idiom classification and 88% of original accuracy on metaphor classification while pruning attention heads.
   </sub>
