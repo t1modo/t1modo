@@ -17,7 +17,8 @@
 
 - Title: **ERGO: Entropy-guided Resetting for Generation Optimization in Multi-turn Language Models** <br/>
   Authors: *Haziq Mohammad Khalid, Athikash Jeyaganthan, <ins>Timothy Do</ins>, Yicheng Fu, Sean O'Brien, Vasu Sharma, Kevin Zhu* <br/>
-  Publication: [arXiv number pending] <br/>
+  Publication: N/A <br/>
+  🎉 Accepted to RANLP 2025 Student Research Workshop <br/>
   <sub>
   Developed ERGO, achieving 56.6% average performance improvement and recovering a 15% accuracy drop in multi-turn conversations via entropy-guided prompt restructuring. Outperformed single-turn baselines by 9.6% and reduced response variability by 35.3%, addressing up to 112% increases in conversational inconsistency.
   </sub>
