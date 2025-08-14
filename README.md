@@ -1,6 +1,7 @@
 <h1 align="center">Hello, I'm Timothy Do</h1>
 
-<h3 align="center">📫 How to reach me: tim.do.info@gmail.com</h3>
+### 📫 **Email:** [tim.do.info@gmail.com](mailto:tim.do.info@gmail.com)  
+### 📄 **Resume:** [View Here](https://drive.google.com/file/d/1vyIAm0OwwAe5nNLA8Ru7inDZBvEeko76/view?usp=sharing)
 
 # 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/timothykhangdo)
