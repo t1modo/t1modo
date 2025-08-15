@@ -19,25 +19,16 @@
 - Title: **Timing of Ultrafast Electron and Laser Pulses with Narrowband Thz Interferometry for Ultrafast Electron Diffraction** <br/>
   Authors: *Stephen Weathersby, Valery Dolgashev, Patrick Kramer, Mohamed Othman, Robert England, Dennis Palmer, Cameron J. R. Duncan, <ins>Timothy Khang Do</ins>* <br/>
   Submitted to NAPAC 25 — 2025 North American Particle Accelerator Conference <br/>
-  <sub>
-  Developed ERGO, achieving 56.6% average performance improvement and recovering a 15% accuracy drop in multi-turn conversations via entropy-guided prompt restructuring. Outperformed single-turn baselines by 9.6% and reduced response variability by 35.3%, addressing up to 112% increases in conversational inconsistency.
-  </sub>
 
 - Title: **ERGO: Entropy-guided Resetting for Generation Optimization in Multi-turn Language Models** <br/>
   Authors: *Haziq Mohammad Khalid, Athikash Jeyaganthan, <ins>Timothy Do</ins>, Yicheng Fu, Sean O'Brien, Vasu Sharma, Kevin Zhu* <br/>
   Publication: N/A <br/>
   🎉 Accepted to RANLP 2025 Student Research Workshop <br/>
-  <sub>
-  Developed ERGO, achieving 56.6% average performance improvement and recovering a 15% accuracy drop in multi-turn conversations via entropy-guided prompt restructuring. Outperformed single-turn baselines by 9.6% and reduced response variability by 35.3%, addressing up to 112% increases in conversational inconsistency.
-  </sub>
 
 - Title: **Pruning for Performance: Efficient Idiom and Metaphor Classification in Low-Resource Konkani Using mBERT** <br/>
   Authors: *<ins>Timothy Do</ins>, Pranav Saran, Harshita Poojary, Pranav Prabhu, Sean O'Brien, Vasu Sharma, Kevin Zhu* <br/>
   Publication: [arXiv:2506.02005](https://arxiv.org/abs/2506.02005) <br/>
   🎉 Accepted to 1st Workshop on Multilingual Data Quality Signals (COLM 2025 WMDQS) <br/>
-  <sub>
-   Utilized a hybrid mBERT+BiLSTM model for figurative language detection, trained on low-resource Konkani. Achieved an accuracy of 83% for idiom classification and 78% for metaphor classification. Preserved 100% of original accuracy on idiom classification and 88% of original accuracy on metaphor classification while pruning attention heads.
-  </sub>
 
 # 💻 Tech Stack
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)  ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)  ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)  ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)  ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white)  ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)  ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white)  ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)  ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)  ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
