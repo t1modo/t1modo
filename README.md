@@ -16,6 +16,13 @@
 
 # 📄 Publications
 
+- Title: **Timing of Ultrafast Electron and Laser Pulses with Narrowband Thz Interferometry for Ultrafast Electron Diffraction** <br/>
+  Authors: *Stephen Weathersby, Valery Dolgashev, Patrick Kramer, Mohamed Othman, Robert England, Dennis Palmer, Cameron J. R. Duncan, <ins>Timothy Khang Do</ins>* <br/>
+  Submitted to NAPAC 25 — 2025 North American Particle Accelerator Conference <br/>
+  <sub>
+  Developed ERGO, achieving 56.6% average performance improvement and recovering a 15% accuracy drop in multi-turn conversations via entropy-guided prompt restructuring. Outperformed single-turn baselines by 9.6% and reduced response variability by 35.3%, addressing up to 112% increases in conversational inconsistency.
+  </sub>
+
 - Title: **ERGO: Entropy-guided Resetting for Generation Optimization in Multi-turn Language Models** <br/>
   Authors: *Haziq Mohammad Khalid, Athikash Jeyaganthan, <ins>Timothy Do</ins>, Yicheng Fu, Sean O'Brien, Vasu Sharma, Kevin Zhu* <br/>
   Publication: N/A <br/>
