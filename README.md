@@ -22,7 +22,7 @@
 
 - Title: **ERGO: Entropy-guided Resetting for Generation Optimization in Multi-turn Language Models** <br/>
   Authors: *Haziq Mohammad Khalid, Athikash Jeyaganthan, <ins>Timothy Do</ins>, Yicheng Fu, Sean O'Brien, Vasu Sharma, Kevin Zhu* <br/>
-  Publication: N/A <br/>
+  Publication: arXiv preprint pending <br/>
   🎉 Accepted to RANLP 2025 Student Research Workshop <br/>
 
 - Title: **Pruning for Performance: Efficient Idiom and Metaphor Classification in Low-Resource Konkani Using mBERT** <br/>
