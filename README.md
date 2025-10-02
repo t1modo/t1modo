@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm Timothy Do</h1>
 
 ### 📫 **Email:** [tim.do.info@gmail.com](mailto:tim.do.info@gmail.com)  
-### 📄 **Resume:** [View Here](https://drive.google.com/file/d/1tw4_LacQ0QjvVmHgkne4zs29lotgnTBa/view?usp=sharing)
+### 📄 **Resume:** [View Here](https://drive.google.com/file/d/101zouaJ652QJzZKzz9Id8uoa9lBv-COR/view?usp=sharing)
 
 # 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/timothykhangdo)
@@ -17,8 +17,8 @@
 # 📄 Publications
 
 - Title: **Timing of Ultrafast Electron and Laser Pulses with Narrowband Thz Interferometry for Ultrafast Electron Diffraction** <br/>
-  Authors: *Stephen Weathersby, Valery Dolgashev, Patrick Kramer, Mohamed Othman, Robert England, Dennis Palmer, Cameron J. R. Duncan, <ins>Timothy Khang Do</ins>* <br/>
-  To appear in Proceedings of 2025 North American Particle Accelerator Conference (NAPAC) | [Research Paper](https://drive.google.com/file/d/1AUsiiKpPNSXhAk47wO_MP_GqpIZLjZWN/view?usp=sharing) <br/>
+  Authors: *Stephen Weathersby, <ins>Timothy Khang Do</ins>, Valery Dolgashev, Cameron J. R. Duncan, Joel England, Patrick Kramer, Mohamed Othman, Dennis Palmer* <br/>
+  Publication: [DOI:10.18429/JACoW-NAPAC2025-TUP099](https://prebys.physics.ucdavis.edu/NAPAC-25/proceedings/pdf/TUP099.pdf) <br/>
 
 - Title: **ERGO: Entropy-guided Resetting for Generation Optimization in Multi-turn Language Models** <br/>
   Authors: *Haziq Mohammad Khalid, Athikash Jeyaganthan, <ins>Timothy Do</ins>, Yicheng Fu, Sean O'Brien, Vasu Sharma, Kevin Zhu* <br/>
