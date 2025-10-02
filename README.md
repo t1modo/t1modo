@@ -18,7 +18,7 @@
 
 - Title: **Timing of Ultrafast Electron and Laser Pulses with Narrowband Thz Interferometry for Ultrafast Electron Diffraction** <br/>
   Authors: *Stephen Weathersby, <ins>Timothy Khang Do</ins>, Valery Dolgashev, Cameron J. R. Duncan, Joel England, Patrick Kramer, Mohamed Othman, Dennis Palmer* <br/>
-  Publication: [DOI:10.18429/JACoW-NAPAC2025-TUP099](https://prebys.physics.ucdavis.edu/NAPAC-25/proceedings/pdf/TUP099.pdf) <br/>
+  Publication: [DOI:10.18429/JACoW-NAPAC2025-TUP099](https://prebys.physics.ucdavis.edu/NAPAC-25/proceedings/doi/jacow-napac2025-tup099/index.html) <br/>
 
 - Title: **ERGO: Entropy-guided Resetting for Generation Optimization in Multi-turn Language Models** <br/>
   Authors: *Haziq Mohammad Khalid, Athikash Jeyaganthan, <ins>Timothy Do</ins>, Yicheng Fu, Sean O'Brien, Vasu Sharma, Kevin Zhu* <br/>
