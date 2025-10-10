@@ -23,6 +23,8 @@
 - Title: **ERGO: Entropy-guided Resetting for Generation Optimization in Multi-turn Language Models** <br/>
   Authors: *Haziq Mohammad Khalid, Athikash Jeyaganthan, <ins>Timothy Do</ins>, Yicheng Fu, Sean O'Brien, Vasu Sharma, Kevin Zhu* <br/>
   To appear in Proceedings of the Second Workshop on Uncertainty-Aware NLP @ EMNLP 2025 | [Research Paper](https://drive.google.com/file/d/1bl_5PajVFeYNVe44G8gnS29SKFU8KL9z/view?usp=sharing) <br/>
+  Accepted Poster, First Workshop on Multi-Turn Interactions in Large Language Models @ NeurIPS 2025 <br/>
+  Accepted Poster, Reliable ML from Unreliable Data @ NeurIPS 2025 <br/>
 
 - Title: **Pruning for Performance: Efficient Idiom and Metaphor Classification in Low-Resource Konkani Using mBERT** <br/>
   Authors: *<ins>Timothy Do</ins>, Pranav Saran, Harshita Poojary, Pranav Prabhu, Sean O'Brien, Vasu Sharma, Kevin Zhu* <br/>
