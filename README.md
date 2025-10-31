@@ -30,6 +30,7 @@
 - Title: **Pruning for Performance: Efficient Idiom and Metaphor Classification in Low-Resource Konkani Using mBERT** <br/>
   Authors: *<ins>Timothy Do</ins>, Pranav Saran, Harshita Poojary, Pranav Prabhu, Sean O'Brien, Vasu Sharma, Kevin Zhu* <br/>
   Publication: [arXiv:2506.02005](https://arxiv.org/abs/2506.02005) <br/>
+  Accepted Poster, Student Research Workshop @ IJCNLP-AACL 2025 <br/>
   Accepted to 1st Workshop on Multilingual Data Quality Signals @ COLM 2025 <br/>
 
 # 💻 Tech Stack
