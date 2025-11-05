@@ -20,7 +20,7 @@
   Authors: *Haziq Mohammad Khalid, Athikash Jeyaganthan, <ins>Timothy Do</ins>, Yicheng Fu, Sean O'Brien, Vasu Sharma, Kevin Zhu* <br/>
   Publication: [arXiv:2510.14077](https://arxiv.org/abs/2510.14077) <br/>
   To appear in Proceedings of the Second Workshop on Uncertainty-Aware NLP @ EMNLP 2025 | [Research Poster](https://drive.google.com/file/d/1B1Z3A3J-eJABbkdTY75aat8xUQv_bEcV/view?usp=sharing) <br/>
-  Accepted Poster, First Workshop on Multi-Turn Interactions in Large Language Models @ NeurIPS 2025 <br/>
+  Accepted Poster, First Workshop on Multi-Turn Interactions in Large Language Models @ NeurIPS 2025 | [Research Poster](https://drive.google.com/file/d/1Wys6mn6_FOizDBJyDFbjo2UABzJO6Emn/view?usp=sharing) <br/>
   Accepted Poster, Reliable ML from Unreliable Data @ NeurIPS 2025 | [Research Poster](https://drive.google.com/file/d/1Wys6mn6_FOizDBJyDFbjo2UABzJO6Emn/view?usp=sharing) <br/>
 
 - Title: **Timing of Ultrafast Electron and Laser Pulses with Narrowband Thz Interferometry for Ultrafast Electron Diffraction** <br/>
