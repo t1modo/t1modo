@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm Timothy Do</h1>
 
 ### 📫 **Email:** [tim.do.info@gmail.com](mailto:tim.do.info@gmail.com)  
-### 📄 **Resume:** [View Here](https://drive.google.com/file/d/1K7E4dBnFFmKNjq_za-0sZl_Hi9s8Swq_/view?usp=sharing)
+### 📄 **Resume:** [View Here](https://drive.google.com/file/d/1FXaBiq_ajWGDulc0nLJjmHZ8jsd3W1wc/view?usp=sharing)
 ### 💼 **Portfolio:** [Visit Here](https://t1modo.github.io/Timodo_Portfolio/)  
 
 # 🌐 Socials
