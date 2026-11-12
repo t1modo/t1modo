@@ -4,6 +4,10 @@
 ### 📄 **Resume:** [View Here](https://drive.google.com/file/d/1FXaBiq_ajWGDulc0nLJjmHZ8jsd3W1wc/view?usp=sharing)
 ### 💼 **Portfolio:** [Visit Here](https://t1modo.github.io/Timodo_Portfolio/)  
 
+# 💫 About Me
+
+Studying software engineering at San Jose State University, I've built experience in AI research, scientific computing, and immersive technologies. I've published on making language models recover when multi-turn conversations go wrong, and on efficient figurative language classification for Konkani, a low-resource language. Before that I spent a summer at SLAC National Accelerator Laboratory, building the analysis pipeline for an ultrafast electron diffraction experiment. Right now I'm an AI Fellow at Accenture through Break Through Tech's AI Studio, working on supply chain disruption prediction, and a Cal-Bridge Undergraduate Scholar preparing for graduate research.
+
 # 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/timothykhangdo)
 [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=white)](https://leetcode.com/Timodo/)
